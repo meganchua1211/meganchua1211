@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm ⋆˚࿔ megan 𝜗𝜚˚⋆･ </h1>
+<h1 align="center">hi! i'm ⋆˚࿔ megan 𝜗𝜚˚⋆･ </h1>
 
 <p align="center">
   <img src="sasha.gif" width="180">
