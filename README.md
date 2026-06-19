@@ -1,4 +1,8 @@
-# Hi, I'm Megan 👋
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+<h1 align="center">Hi, I'm Megan!°❀⋆.ೃ࿔*:･ </h1>
+
+<p align="center">
+  <img src="sasha.gif" width="180">
 
 🎓 Data Science and Business Management Undergraduate
 
